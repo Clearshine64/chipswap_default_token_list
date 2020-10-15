@@ -1,7 +1,7 @@
 {
-  "name": "@uniswap/default-token-list",
+  "name": "@chip-swap/default-token-list",
   "version": "1.5.0",
-  "description": "◦ The Uniswap default token list",
+  "description": "◦ The Chipswap default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
@@ -12,8 +12,8 @@
     "build/uniswap-default.tokenlist.json"
   ],
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Uniswap/default-token-list.git"
+    "url": "https://github.com/chip-swap/chipswap_default_token_list.git",
+    "type": "git"
   },
   "keywords": [
     "uniswap",
@@ -24,15 +24,19 @@
   "author": "Moody Salem",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Uniswap/default-token-list/issues"
+    "url": "https://github.com/gyas-kk/default-token-list/issues"
   },
-  "homepage": "https://github.com/Uniswap/default-token-list#readme",
   "devDependencies": {
-    "@ethersproject/address": "^5.0.2",
-    "@uniswap/token-lists": "^1.0.0-beta.8",
-    "ajv": "^6.12.3",
+    "@chip-swap/token-lists": "^1.0.0-beta.18",
+    "@ethersproject/address": "^5.0.5",
+    "ajv": "^6.12.6",
     "chai": "^4.2.0",
-    "mocha": "^8.0.1",
+    "mocha": "^8.2.0",
+    "npm-check-updates": "^9.1.0",
     "rimraf": "^3.0.2"
+  },
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com/"
   }
 }

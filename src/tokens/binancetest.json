@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ERC20A",
+    "address": "0xAf521d35d9fe98a07d0Fd9A7c13E1E1c7324c6db",
+    "symbol": "TT",
+    "decimals": 8,
+    "chainId": 97,
+    "logoURI": "https://i-sys.io/images/favicon.png"
+  },
+  {
+    "name": "ERC20B",
+    "address": "0x19bb5A4A15488016df7f5C9745771156C3DDD34C",
+    "symbol": "TT",
+    "decimals": 18,
+    "chainId": 97,
+    "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+  }
+]
