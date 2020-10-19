@@ -1,5 +1,5 @@
 const packageJson = require('../package.json');
-const schema = require('@chipswap/token-lists/src/tokenlist.schema.json');
+const schema = require('@chip-swap/token-lists/src/tokenlist.schema.json');
 const { expect } = require('chai');
 const { getAddress } = require('@ethersproject/address');
 const Ajv = require('ajv');
