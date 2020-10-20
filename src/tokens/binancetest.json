@@ -4,7 +4,7 @@
     "address": "0x960af5ec8f98950fc1bd27a31e9929479b2e8444",
     "symbol": "TestA",
     "decimals": 8,
-    "chainId": 1,
+    "chainId": 97,
     "logoURI": "https://i-sys.io/images/favicon.png",
     "tags": [
     ]
