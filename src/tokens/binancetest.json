@@ -32,7 +32,7 @@
   },
   {
     "name": "ERC20A",
-    "address": "0xAf521d35d9fe98a07d0Fd9A7c13E1E1c7324c6db",
+    "address": "0x17B1EdB32A40768c194532800617806488CcEc37",
     "symbol": "TT",
     "decimals": 8,
     "chainId": 97,
@@ -40,7 +40,7 @@
   },
   {
     "name": "ERC20B",
-    "address": "0x19bb5A4A15488016df7f5C9745771156C3DDD34C",
+    "address": "0x778510405b84887a8418e26F47ef3CdE137AA661",
     "symbol": "TT",
     "decimals": 18,
     "chainId": 97,
