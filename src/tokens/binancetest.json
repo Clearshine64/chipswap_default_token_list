@@ -45,5 +45,21 @@
     "decimals": 18,
     "chainId": 97,
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+  },
+  {
+    "name": "CHIP",
+    "address": "0x3784e0835b938afc44f6a4b6a805b941f40833d3",
+    "symbol": "CHIP",
+    "decimals": 8,
+    "chainId": 97,
+    "logoURI": "https://i-sys.io/images/favicon.png"
+  },
+  {
+    "name": "Chip",
+    "address": "0x00002e4fc8fc0404b9f6207085c7f47a5e6d1125",
+    "symbol": "Chip",
+    "decimals": 18,
+    "chainId": 97,
+    "logoURI": "https://i-sys.io/images/favicon.png"
   }
 ]
