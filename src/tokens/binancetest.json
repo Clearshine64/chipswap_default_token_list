@@ -35,8 +35,16 @@
     "name": "Ethereum Token",
     "symbol": "ETH",
     "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
-    "chainId": 56,
     "decimals": 18,
+    "chainId": 97,
+    "logoURI": "https://decentralized.tipchip.io/images/coins/ETH.png"
+  },
+  {
+    "name": "ChainLink Token",
+    "symbol": "LINK",
+    "address": "0x420d87a31f7dc65330b8Ce5668Ca17BA2029d563",
+    "decimals": 18,
+    "chainId": 97,
     "logoURI": "https://decentralized.tipchip.io/images/coins/ETH.png"
   }
 ]
