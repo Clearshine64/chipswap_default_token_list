@@ -1,50 +1,58 @@
 [
   {
-    "name": "TT",
-    "address": "0x17B1EdB32A40768c194532800617806488CcEc37",
-    "symbol": "TT",
+    "name": "TT20",
+    "address": "0xb2A84A3Ed5d19A6160a44D238AC85FfeE6D12476",
+    "symbol": "TT20",
     "decimals": 18,
     "chainId": 97,
     "logoURI": "https://i-sys.io/images/favicon.png"
   },
   {
-    "name": "tt",
-    "address": "0x778510405b84887a8418e26F47ef3CdE137AA661",
-    "symbol": "tt",
+    "name": "CHIP ",
+    "address": "0x00002e4fc8fc0404b9f6207085c7f47a5e6d1125",
+    "symbol": "CHIP ",
     "decimals": 18,
     "chainId": 97,
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
   },
   {
-    "name": "CHIP",
-    "address": "0x3784e0835b938afc44f6a4b6a805b941f40833d3",
-    "symbol": "CHIP",
-    "decimals": 18,
-    "chainId": 97,
-    "logoURI": "https://i-sys.io/images/favicon.png"
-  },
-  {
-    "name": "Chip",
-    "address": "0x00002e4fc8fc0404b9f6207085c7f47a5e6d1125",
-    "symbol": "Chip",
-    "decimals": 18,
-    "chainId": 97,
-    "logoURI": "https://i-sys.io/images/favicon.png"
-  },
-  {
-    "name": "Ethereum Token",
-    "symbol": "ETH",
-    "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+    "name": "WETH",
+    "symbol": "WETH",
+    "address": "0xfeE28Fe2899de485F6cc560db31217acDEA47C9A",
     "decimals": 18,
     "chainId": 97,
     "logoURI": "https://decentralized.tipchip.io/images/coins/ETH.png"
   },
   {
-    "name": "ChainLink Token",
+    "name": "WBTC",
+    "symbol": "WBTC",
+    "address": "0x1f12b61a35ca147542001186DEA23e34eb4d7d95",
+    "decimals": 18,
+    "chainId": 97,
+    "logoURI": "https://decentralized.tipchip.io/images/coins/BTC.png"
+  },
+  {
+    "name": "USDT",
+    "symbol": "USDT",
+    "address": "0xf738f79eb1DCC04270e0D4E75fe4c96f8c19130A",
+    "decimals": 18,
+    "chainId": 97,
+    "logoURI": "https://decentralized.tipchip.io/images/coins/USDT.png"
+  },
+  {
+    "name": "USDC",
+    "symbol": "USDC",
+    "address": "0x92665cfEc130742Eb820F7C874c13243800D52CF",
+    "decimals": 18,
+    "chainId": 97,
+    "logoURI": "https://decentralized.tipchip.io/images/coins/USDC.png"
+  },
+  {
+    "name": "LINK",
     "symbol": "LINK",
-    "address": "0x420d87a31f7dc65330b8Ce5668Ca17BA2029d563",
+    "address": "0x5564783266a41ba6C94607beF0D3EF3380F47981",
     "decimals": 18,
     "chainId": 97,
-    "logoURI": "https://decentralized.tipchip.io/images/coins/ETH.png"
+    "logoURI": "https://decentralized.tipchip.io/images/coins/LINK.png"
   }
 ]
