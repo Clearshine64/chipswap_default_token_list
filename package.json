@@ -1,6 +1,6 @@
 {
   "name": "@chip-swap/chipswap_default_token_list",
-  "version": "1.6.9",
+  "version": "1.6.10",
   "description": "◦ The Chipswap default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {

@@ -18,7 +18,7 @@
   {
     "name": "WETH",
     "symbol": "WETH",
-    "address": "0xfeE28Fe2899de485F6cc560db31217acDEA47C9A",
+    "address": "0x8B90Ba1cFafA9E24577Da958630584410adc1288",
     "decimals": 18,
     "chainId": 97,
     "logoURI": "https://decentralized.tipchip.io/images/coins/ETH.png"
