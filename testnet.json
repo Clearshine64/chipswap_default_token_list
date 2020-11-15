@@ -22,52 +22,12 @@
       "logoURI": "https://raw.githubusercontent.com/chip-swap/chipswap_default_token_list/develop/assets/0x00002e4fc8fc0404b9f6207085c7f47a5e6d1125.png?token=AJQHSRWHFPVXA34DNXOOW3S7XHAP6"
     },
     {
-      "name": "LINK",
-      "symbol": "LINK",
-      "address": "0x5564783266a41ba6C94607beF0D3EF3380F47981",
+      "name": "RON",
+      "symbol": "RON",
+      "address": "0x784bf54bdafc10cf71e114273e01663048ea4df4",
       "decimals": 18,
       "chainId": 97,
-      "logoURI": "https://decentralized.tipchip.io/images/coins/LINK.png"
+      "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/ron.png"
     },
-    {
-      "name": "TT20",
-      "address": "0xb2A84A3Ed5d19A6160a44D238AC85FfeE6D12476",
-      "symbol": "TT20",
-      "decimals": 18,
-      "chainId": 97,
-      "logoURI": "https://i-sys.io/images/favicon.png"
-    },
-    {
-      "name": "USDC",
-      "symbol": "USDC",
-      "address": "0x92665cfEc130742Eb820F7C874c13243800D52CF",
-      "decimals": 18,
-      "chainId": 97,
-      "logoURI": "https://decentralized.tipchip.io/images/coins/USDC.png"
-    },
-    {
-      "name": "USDT",
-      "symbol": "USDT",
-      "address": "0xf738f79eb1DCC04270e0D4E75fe4c96f8c19130A",
-      "decimals": 18,
-      "chainId": 97,
-      "logoURI": "https://decentralized.tipchip.io/images/coins/USDT.png"
-    },
-    {
-      "name": "WBTC",
-      "symbol": "WBTC",
-      "address": "0x1f12b61a35ca147542001186DEA23e34eb4d7d95",
-      "decimals": 18,
-      "chainId": 97,
-      "logoURI": "https://decentralized.tipchip.io/images/coins/BTC.png"
-    },
-    {
-      "name": "WETH",
-      "symbol": "WETH",
-      "address": "0x8B90Ba1cFafA9E24577Da958630584410adc1288",
-      "decimals": 18,
-      "chainId": 97,
-      "logoURI": "https://decentralized.tipchip.io/images/coins/ETH.png"
-    }
   ]
 }
