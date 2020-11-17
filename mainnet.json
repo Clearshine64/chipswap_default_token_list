@@ -44,6 +44,14 @@
       "decimals": 8,
       "chainId": 56,
       "logoURI": "https://i-sys.io/images/favicon.png"
+    },
+    {
+      "name": "TTBTCBToken",
+      "symbol": "TTBTCB",
+      "address": "0x2F51Fd6783A4D6Bbb9a531A381273172D59f5343",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://i-sys.io/images/favicon.png"
     }
   ]
 }
