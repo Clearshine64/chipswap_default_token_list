@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 6,
-    "patch": 10
+    "patch": 11
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/chip-swap/chipswap_default_token_list/develop/assets/chipswap.png?token=AJQHSRUMLC6JPKVXPLQPXTK7XHAVM",
@@ -28,6 +28,14 @@
       "decimals": 18,
       "chainId": 97,
       "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/ron.png"
+    },
+    {
+      "name": "WBNB",
+      "symbol": "WBNB",
+      "address": "0x1B3130f82A31D34872fC931949e41641dF8D0Ea7",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://decentralized.tipchip.io/images/coins/ETH.png"
     }
   ]
 }
