@@ -7,7 +7,7 @@
     "patch": 11
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/chip-swap/chipswap_default_token_list/develop/assets/chipswap.png?token=AJQHSRUMLC6JPKVXPLQPXTK7XHAVM",
+  "logoURI": "https://raw.githubusercontent.com/chip-swap/chipswap_default_token_list/develop/assets/chipswap.png",
   "keywords": [
     "uniswap",
     "default"
@@ -15,43 +15,11 @@
   "tokens": [
     {
       "name": "CHIP",
-      "address": "0x3eF1F5c9d29390942C3f647afac72900E9058982",
+      "address": "0xa25fc408ef05321103243557c851101f9acee608",
       "symbol": "CHIP",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/chip-swap/chipswap_default_token_list/develop/assets/chipswap.png?token=AJQHSRWHFPVXA34DNXOOW3S7XHAP6"
-    },
-    {
-      "name": "WBNB",
-      "symbol": "WBNB",
-      "address": "0x14233bA7106D1a3C2db6F9d6f5B216956a201072",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI": "https://decentralized.tipchip.io/images/coins/ETH.png"
-    },
-    {
-      "name": "ISYSTOKEN",
-      "address": "0x89bCCB71f29cf9b1f8ecD227160E9527A46b83A3",
-      "symbol": "ISYS",
-      "decimals": 8,
-      "chainId": 56,
-      "logoURI": "https://i-sys.io/images/favicon.png"
-    },
-    {
-      "name": "TToken",
-      "symbol": "TT",
-      "address": "0xb93CF0012fB7124c2a7FfFe38e212Cb7A5303C60",
-      "decimals": 8,
-      "chainId": 56,
-      "logoURI": "https://i-sys.io/images/favicon.png"
-    },
-    {
-      "name": "TTBTCBToken",
-      "symbol": "TTBTCB",
-      "address": "0x2F51Fd6783A4D6Bbb9a531A381273172D59f5343",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI": "https://i-sys.io/images/favicon.png"
+      "logoURI": "https://raw.githubusercontent.com/chip-swap/chipswap_default_token_list/develop/assets/0xa25FC408EF05321103243557C851101f9AceE608.png"
     }
   ]
 }
