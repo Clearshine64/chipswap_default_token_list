@@ -7,7 +7,7 @@
     "patch": 10
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/chip-swap/chipswap_default_token_list/develop/assets/chipswap.png?token=AJQHSRUMLC6JPKVXPLQPXTK7XHAVM",
+  "logoURI": "https://raw.githubusercontent.com/chip-swap/chipswap_default_token_list/develop/assets/chipswap.png",
   "keywords": [
     "uniswap",
     "default"
@@ -15,19 +15,19 @@
   "tokens": [
     {
       "name": "CHIP",
-      "address": "0x00002e4fc8fc0404b9f6207085c7f47a5e6d1125",
+      "address": "0xa25fc408ef05321103243557c851101f9acee608",
       "symbol": "CHIP",
       "decimals": 18,
       "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/chip-swap/chipswap_default_token_list/develop/assets/0x00002e4fc8fc0404b9f6207085c7f47a5e6d1125.png?token=AJQHSRWHFPVXA34DNXOOW3S7XHAP6"
+      "logoURI": "https://raw.githubusercontent.com/chip-swap/chipswap_default_token_list/develop/assets/0xa25FC408EF05321103243557C851101f9AceE608.png"
     },
     {
       "name": "RON",
       "symbol": "RON",
-      "address": "0x784bf54bdafc10cf71e114273e01663048ea4df4",
+      "address": "0x1b44a3c64b4ecf5e9086b94ca40db3423cc23abc",
       "decimals": 18,
       "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/ron.png"
+      "logoURI": "https://raw.githubusercontent.com/chip-swap/chipswap_default_token_list/develop/assets/0x1b44A3C64B4Ecf5E9086B94CA40DB3423cC23abC.png"
     }
   ]
 }
